@@ -8,7 +8,7 @@ dependencies:
   - fastqc=0.11.9
   - seqtk=1.3
   - snakemake=7.25.0
-  - multiqc=1.14
+  - multiqc=1.7
   - bowtie2=2.2.4
   - tbb=2021.8.0
   - samtools=1.16
